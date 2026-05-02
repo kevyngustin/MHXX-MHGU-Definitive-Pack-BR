@@ -11,5 +11,5 @@ https://drive.google.com/file/d/1Y7319bR9vdho-q5ry00vSnJvTCOL5qnU/view?usp=drive
 
 ( •̀ ω •́ )✧ Alguma dúvida? Contate me no insta: @kevyngustin
 
- Sr'Kevyn (youtube channel, checa lá também) (p≧w≦q) 
+ SrKevyn (youtube channel, checa lá também) (p≧w≦q) 
 
