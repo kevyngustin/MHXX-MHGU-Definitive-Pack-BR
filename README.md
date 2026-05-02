@@ -12,7 +12,7 @@ LINK PARA O VIDEO DO YOUTUBE (EXPLICAÇÃO EDITADA SOBRE ESTES ARQUIVOS)
 
 https://youtu.be/mSwlF8_BFbs
 
-LINK PARA O DRIVE (arquivo principal pesa 2gb, mais do que o repósitório aceita).
+LINK PARA O DRIVE (ARQUIVO COMPLETO) (arquivo pesa 2gb, mais do que o repósitório aceita por isso o upload no drive).
 
 https://drive.google.com/file/d/1Y7319bR9vdho-q5ry00vSnJvTCOL5qnU/view?usp=drive_link
 
