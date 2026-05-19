@@ -22,3 +22,47 @@ https://drive.google.com/file/d/1Y7319bR9vdho-q5ry00vSnJvTCOL5qnU/view?usp=drive
 
  SrKevyn (youtube channel, checa lá também) (p≧w≦q) 
 
+ # 🎮 TUTORIAL: Como instalar o Update e a Tradução no 3DS Físico
+Se você joga no console real, o processo é um pouco diferente dos emuladores, mas é bem simples. Você vai precisar do seu 3DS desbloqueado (Luma3DS) e do aplicativo FBI instalado. Siga os passos abaixo com atenção PRA NÃO EXPLODIR SEU CONSOLE!!1:
+
+Passo 1: Instalando o Update (Atualização do jogo)
+Para a tradução funcionar sem fechar o jogo do nada, seu MHXX precisa estar atualizado (versão 1.2.0).
+
+Coloque o arquivo do Update (que está no formato .cia) dentro da pasta cias no cartão SD do seu 3DS.
+
+Ligue o 3DS e abra o aplicativo FBI.
+
+Navegue até SD > cias.
+
+Selecione o arquivo do update e escolha a opção Install and delete CIA.
+
+Aguarde a instalação terminar e volte para o menu principal do 3DS.
+
+Passo 2: Ativando leitura de Mods no Luma3DS
+Precisamos dizer para o 3DS ler arquivos de fora do jogo base.
+
+Desligue o 3DS completamente.
+
+Ligue o console segurando o botão SELECT. Isso vai abrir a tela de configuração do Luma3DS.
+
+Desça até a opção "Enable game patching" e aperte o botão A para marcar com um (X).
+
+Aperte o botão START para salvar e reiniciar o console.
+
+Passo 3: Aplicando a Tradução no Cartão SD
+Agora vamos injetar a tradução por cima do jogo usando um recurso chamado LayeredFS.
+
+Desligue o 3DS e coloque o cartão SD no seu PC ou Celular.
+
+Na raiz do cartão SD, abra a pasta luma e depois a pasta titles. (Se a pasta titles não existir, crie uma tudo em minúsculo).
+
+Dentro da pasta titles, crie uma nova pasta com o ID exato do MHXX japonês. O nome dela tem que ser: 0004000000197100
+
+Agora, pegue a pasta romfs (que está dentro dos arquivos de tradução que você baixou) e copie ela para dentro da pasta que você acabou de criar.
+
+O caminho final no seu cartão de memória tem que ficar exatamente assim:
+SD:/luma/titles/0004000000197100/romfs/
+
+Passo 4: Hora de caçar!
+Coloque o cartão SD de volta no 3DS e inicie o Monster Hunter Double Cross normalmente. Se você fez tudo certo, o jogo já vai iniciar com os menus e textos traduzidos. Boa caçada!
+
