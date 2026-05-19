@@ -26,7 +26,7 @@ https://drive.google.com/file/d/1Y7319bR9vdho-q5ry00vSnJvTCOL5qnU/view?usp=drive
 Se você joga no console real, o processo é um pouco diferente dos emuladores, mas é bem simples. Você vai precisar do seu 3DS desbloqueado (Luma3DS) e do aplicativo FBI instalado. Siga os passos abaixo com atenção PRA NÃO EXPLODIR SEU CONSOLE!!1:
 
 Passo 1: Instalando o Update (Atualização do jogo)
-Para a tradução funcionar sem fechar o jogo do nada, seu MHXX precisa estar atualizado (versão 1.2.0).
+Para a tradução funcionar sem fechar o jogo do nada, seu MHXX precisa estar atualizado (versão 1.2.0 ou 1.4.0).
 
 Coloque o arquivo do Update (que está no formato .cia) dentro da pasta cias no cartão SD do seu 3DS.
 
