@@ -50,7 +50,7 @@ Desça até a opção "Enable game patching" e aperte o botão A para marcar com
 Aperte o botão START para salvar e reiniciar o console.
 
 Passo 3: Aplicando a Tradução no Cartão SD
-Agora vamos injetar a tradução por cima do jogo usando um recurso chamado LayeredFS.
+Agora vamos injetar a tradução por cima do jogo.
 
 Desligue o 3DS e coloque o cartão SD no seu PC ou Celular.
 
