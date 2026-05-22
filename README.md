@@ -36,7 +36,7 @@ Navegue até SD > cias.
 
 Selecione o arquivo do update (E ROM instale ela primeiro) e escolha a opção Install and delete CIA.
 
-Aguarde a instalação terminar e volte para o menu principal do 3DS. (CERTIFIQUE-SE DE TER ESPAÇO MIN 6GB) 
+Aguarde a instalação terminar e volte para o menu principal do 3DS. (CERTIFIQUE-SE DE TER ESPAÇO MIN 6GB antes de instalar!) 
 
 Passo 2: Ativando leitura de Mods no Luma3DS
 Precisamos dizer para o 3DS ler arquivos de fora do jogo base.
