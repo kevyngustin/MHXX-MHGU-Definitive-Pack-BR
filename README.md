@@ -1,4 +1,7 @@
 # MHXX-MHGU-Definitive-Pack-BR
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/cf898fb6-839a-4e5a-8b4c-57dd5688001f" />
+
 Pacote de tutorial e arquivos completo FOCADO para emulação de Monster Hunter Double Cross (3DS) e Generations Ultimate (Switch). Inclui tradução PT-BR para MHXX, updates, cheats/mods de performance e um conteúdo denso com todas as DLCs que encontrei para ambas as versões, incluindo missões de evento, Palicos especiais e bônus do MH4U.
 você precisa dos emuladores pra usar isso, recomendo Azahar-Plus e/ou Eden-nightly. (^_-)db(-_^)
 
