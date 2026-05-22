@@ -23,7 +23,7 @@ https://drive.google.com/file/d/1Y7319bR9vdho-q5ry00vSnJvTCOL5qnU/view?usp=drive
  SrKevyn (youtube channel, checa lá também) (p≧w≦q) 
 
  # 🎮 TUTORIAL: Como instalar o Update e a Tradução no 3DS Físico (TOMA CUIDADO TOMA CUIDADO ME CHAMA NO INSTAGRAM PRA NÃO EXPLODIR OU CRASHAR TEU CONSOLE!!!!!)
-Se você joga no console real, o processo é um pouco diferente dos emuladores, mas é bem simples. Você vai precisar do seu 3DS desbloqueado (Luma3DS) e do aplicativo FBI instalado. Siga os passos abaixo com atenção PRA NÃO EXPLODIR SEU CONSOLE!!1: *(se você não possuir o jogo no console, use esse site  https://hshop.erista.me/t/20134  para baixar a rom: a instalação é feita da mesma forma que o update logo abaixo:)* BAIXE PELO "DIRECT DOWNLOAD" NÃO USE A CAMERA!!!
+Se você joga no console real, o processo é um pouco diferente dos emuladores, mas é bem simples. Você vai precisar do seu 3DS desbloqueado (Luma3DS) e do aplicativo FBI instalado. Pra fazer sozinho se você se garante, siiga os passos abaixo com atenção PRA NÃO EXPLODIR SEU CONSOLE!!: *(se você não possuir o jogo no console, use esse site  https://hshop.erista.me/t/20134  para baixar a rom: a instalação é feita da mesma forma que o update logo abaixo:)* BAIXE PELO "DIRECT DOWNLOAD" NÃO USE A CAMERA!!!
 
 Passo 1: Instalando o Update (Atualização do jogo)
 Para a tradução funcionar sem fechar o jogo do nada, seu MHXX precisa estar atualizado (versão 1.2.0 ou 1.4.0).
