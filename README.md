@@ -2,8 +2,12 @@
 
 <img width="1771" height="476" alt="GITHUB KEVYN PAGE MHXXGU" src="https://github.com/user-attachments/assets/eedec98e-2f33-4ea5-88e1-aaeb53aa47a2" />
 
-Pacote de tutorial e arquivos completo FOCADO para emulação de Monster Hunter Double Cross (3DS) e Generations Ultimate (Switch). Inclui tradução PT-BR para MHXX, updates, cheats/mods de performance e um conteúdo denso com todas as DLCs que encontrei para ambas as versões, incluindo missões de evento, Palicos especiais e bônus do MH4U.
+Pacote de tutorial e arquivos completo FOCADO para emulação de Monster Hunter Double Cross (3DS) e Generations Ultimate (Switch). Inclui tradução PT-BR para MHXX, updates, cheats/mods de performance e um conteúdo denso com todas as DLCs que encontrei para ambas as versões, incluindo missões de evento, Palicos especiais e bônus do MH4U. 
 você precisa dos emuladores pra usar isso, recomendo Azahar-Plus e/ou Eden-nightly. (^_-)db(-_^)
+
+Tradução feita pela: Dodogama Team
+TWITTER (X): https://x.com/dodogamat
+COMUNIDADE DISCORD: https://discord.gg/CK6DaxdKC
 
 OS TUTORIAIS ESTÃO COLOCADOS EM CADA PASTA RESPECTIVAMENTE< POR EXEMPLO: DLC possue o TXT. "COMO POR A DLC" e assim por diante nas outras pastas.
 Tentei deixar o mais didádito que consegui! ╮(╯-╰)╭ 
