@@ -58,7 +58,8 @@ Desça até a opção "Enable game patching" e aperte o botão A para marcar com
 
 Aperte o botão START para salvar e reiniciar o console.
 
-Passo 3: Aplicando a Tradução no Cartão SD *(se a tradução da pasta principal não funcionar baixe a tradução limpa aqui: https://drive.google.com/file/d/126mU5gb8cgKMgbz-kFwxd-2_zQlFz63c/view*
+Passo 3: Aplicando a Tradução no Cartão SD *(se a tradução da pasta principal não funcionar baixe a tradução limpa aqui: 
+https://drive.google.com/file/d/1z4jzAaTRGEty30UWGAVG34OVNpVgpYAC/view
 
 Agora vamos injetar a tradução por cima do jogo.
 
