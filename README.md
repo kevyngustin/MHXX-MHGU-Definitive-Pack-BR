@@ -19,7 +19,9 @@ Na pasta do MHGU tem a pasta Jogo + Update e dentro dela um TXT. Com o link para
 
 LINK PARA O VIDEO DO YOUTUBE (EXPLICAÇÃO EDITADA SOBRE ESTES ARQUIVOS)
 
-https://youtu.be/mSwlF8_BFbs
+https://youtu.be/TpDV6LjCulQ?si=wyBnoZ3karEoVpXm (video atualizado)
+
+https://youtu.be/mSwlF8_BFbs (video antigo)
 
 LINK PARA O DRIVE (ARQUIVO COMPLETO) (arquivo pesa 2gb, mais do que o repósitório aceita por isso o upload no drive).
 
