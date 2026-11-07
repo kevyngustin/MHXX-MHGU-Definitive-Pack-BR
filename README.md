@@ -23,7 +23,7 @@ https://youtu.be/mSwlF8_BFbs
 
 LINK PARA O DRIVE (ARQUIVO COMPLETO) (arquivo pesa 2gb, mais do que o repósitório aceita por isso o upload no drive).
 
-https://drive.google.com/file/d/1Y7319bR9vdho-q5ry00vSnJvTCOL5qnU/view?usp=drive_link
+https://drive.google.com/file/d/1MgfHkZyt7wWQZ9suE9DKPFPHS5ox_mPz/view?usp=sharing
 
 ( •̀ ω •́ )✧ Alguma dúvida? Contate me no insta: @kevyngustin    
 
